@@ -94,9 +94,3 @@ print(f"Subtotal: \t{lst[0]}")
 print(f"Shipping: \t{lst[1]}")
 print(f"Total: \t\t{lst[2]}")
 
-
-# print("Total package weight: 10.6kg")
-# print("** Checkout receipt **")
-# print("-------------------------------")
-# print("2x Cheese\t100\n1x Meat\t200\n1x TV\t10000")
-# print("--------------------------------")
